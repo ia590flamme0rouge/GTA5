@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Ajoute ici tes propres véhicules 3D (.glb) — uniquement des modèles que tu as le droit d'utiliser
+  (créés par toi, CC0 / CC-BY avec crédit, achetés avec licence...). Les modèles extraits de jeux
+  commerciaux (GTA, etc.) sont interdits.
+  1) Mets le fichier .glb dans ce dossier "vehicles/"
+  2) Ajoute une ligne <vehicle .../> (retire les balises de commentaire)
+  Attributs : id (unique), name, model (fichier), base (physique : hatch, sedan, sport, super, suv, muscle, van...),
+  price ($), maxspeed (km/h), accel, length (mètres), rotate (degrés, si la voiture est dans le mauvais sens),
+  paint (nom du matériau de carrosserie à repeindre, optionnel)
+-->
+<vehicles>
+  <!-- <vehicle id="maVoiture" name="Ma voiture" model="ma_voiture.glb" base="sport" price="80000" maxspeed="260" accel="22" length="4.6" rotate="0" paint="Body"/> -->
+</vehicles>
